@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/lucent
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brick.design
+  * I am lucent (https://keybase.io/lucent) on keybase.
+  * I have a public key with fingerprint FC33 D4B4 99CE 895A 6636  2933 94B8 A437 120E 3C76
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016470372ab9ab5e01f490bd24d4f12201931f39a71fa043ef06e9ac573901be070a",
+      "fingerprint": "fc33d4b499ce895a6636293394b8a437120e3c76",
+      "host": "keybase.io",
+      "key_id": "94b8a437120e3c76",
+      "kid": "01016470372ab9ab5e01f490bd24d4f12201931f39a71fa043ef06e9ac573901be070a",
+      "uid": "bc6d7c4727788ef82ac457b3a95abb00",
+      "username": "lucent"
+    },
+    "service": {
+      "hostname": "brick.design",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1534745194,
+  "expire_in": 157680000,
+  "prev": "2eb784ad6f2dd2c10d6c73882400716e668d1367a330982fb0089ab266376848",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNBAnicrVJtUFRVGN4Fl4kNCMUEV4nxAn5BeL/PvTvUpqiRNMpAqCNOy/04ixdw
+l+4ui4AbyfQD1BkTSBhSpxoMGshRJkXScpRFQRSJYYgpqVYGpo+NHcCCCsfOZexf
+Pzt/zpz3fZ7nPM97jjc8WGfU119pBssiUt36/hunSnS55fsKKjDRIZdh5gqsEC5u
+sEiGTpe1UJExM4YTOMHSAKcAKYi8IDIQJ2w0j4syScu0jSBJnOApwkbxAiBsAk5T
+0IazkBckBlA8TogQB7iAJWM2xZ4P1WJVsbuQrE2iKJkWaZ6XIMczAstSLMlTFE+L
+nEBTgCBxSEmARcQDDqfGQOZEwQlTFAeqoYN10d5/4P9n3yWLcqLEykCiAQkAx0Eb
+RwoSzQCREpB3UcRxDeiEql04CBG6qESCKKYnGUM1tyJBbaxajqd9UVWkwhQ0ZSXf
+jpjFqsPlkBxFqHPA5Sp2mjWmq6xYg5ZC0fpUxCoqdhlNETHcUHUqDjtmJhBScima
+KsFQNKAZgqeTMXioWFGhVdEQDGA5HC3tHuhGkiQUAUcLMmsjZZmUCFxmJUBxHEnj
+OCBYyLKcTFAsECgK5znShuJxaIIkeiMkRXOYFustuwMz0wD5FPKRppZEcJWoEPPc
+vLF/iU5v1IUYgrTvpTOGRv776X4djtTdHnMyCzXW6yeGgzIq5HvdF+Ne3bg1unr5
+8/ezJtZ2TvnW7UkrM204HHv0TrfvF1Vo+StgzHxk9aT21J+ZbJn6Kaolte+02jNV
++PDqCDWYMp35ft5Qz+Qs54/NjXLHMNvmMqo7/Os6EvC+yrFzK1e0TlvO/th4+dvf
+Q+IDwe2HVzn7h/OW3jJ1BR3zf8ktPd9papmpKc22yjOnEur+Dh7P27hr9tO6ppwc
+7wsdQuJ7uQNNdX3XUuOMpATT5g7xvukUdUXwO+F/urvNYZY1e9LfmDzYsN6SWWXY
+HODfNHjbWnevfGW3qWMs5MLESw0z2z0bNv1QZGj7fufJT8hVDaN7azvt7G8fZD+7
+Oa5rx3RM1fxQeVjjQKV++Horl+N9sOVmdrrVEPJwU1bPfIs11sJG5QVNd6T1Joi7
+vsYitolXvtku3+2N33sp+HTN/Zjacsu121/tDO9tG+x38GMDs/7eP4qYPmNk+Px3
+E0r8g9WmM4/0d0Y/qg80y89UPv544rMB2T8VPpd+dWu+yH9x5ET18qiMLAkONnmm
+sJEn48fHnQXNSaXUmrKXExv3xQXWm15b9qJuXB3Z8tgjrH777N3nfKERO949Ot6/
+HzQs+Xze53nSGnqxeaF6weeKllP67tW+nnj+JNH+c8SFWx/WJ4VFV3ovR53zdYW2
+XyoYXXusJmkokHYkrCrsHyHSuaI=
+=xKfk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lucent
+
+==================================================================
+
